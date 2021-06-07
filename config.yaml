@@ -8,5 +8,6 @@ keywords:
         model compression: 2
         BERT: 2
         dialogue state tracking: 2
+        transformer: 1
 # 通知の閾値
 score_threshold: 0
