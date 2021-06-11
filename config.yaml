@@ -6,8 +6,8 @@ keywords:
         dialog: 1
         dialogue: 1
         model compression: 2
-        BERT: 2
+        BERT: 1
         dialogue state tracking: 2
         transformer: 1
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
