@@ -14,5 +14,12 @@ keywords:
         DST: 2
         transformer: 1
         fast: 1
+        quantization: 1
+        quantized: 1
+        quantizing: 1
+        weight pruning: 1
+        pruning: 1
+        distilling: 1
+        distill: 1
 # 通知の閾値
 score_threshold: 2
